@@ -127,6 +127,15 @@ Crie um arquivo vazio chamado `portable` ao lado do `Lumen.exe`. Os dados passam
 2. Saia pelo ícone da bandeja.
 3. Apague a pasta do Lumen e a pasta `%LOCALAPPDATA%\Lumen`.
 
+## Apoie o projeto
+
+O Lumen é gratuito. Se ele te ajudou e você quiser apoiar, qualquer valor via Pix é bem-vindo.
+No app do banco, use **Pix → Pagar com QR Code** ou copie a chave.
+
+<img src="docs/pix.png" alt="QR Code Pix" width="260">
+
+**Chave Pix (e-mail):** `delsanvfx@gmail.com`
+
 ## Licença
 
 [MIT](LICENSE): pode usar, copiar, modificar e distribuir à vontade, mantendo o aviso de licença.
@@ -177,3 +186,4 @@ Detalhes em [docs/ARQUITETURA.md](docs/ARQUITETURA.md): análise, comparação d
   `--search texto`, `--size 1920x1080`, `--wait segundos`.
 - `LUMEN_PROFILE=1` grava o custo médio por quadro em `%LOCALAPPDATA%\Lumen\profile.log`.
 - `tools\make_icon.ps1` regenera `res\lumen.ico`.
+- `python tools\make_pix.py` regenera o QR Code Pix em `docs\pix.png`.

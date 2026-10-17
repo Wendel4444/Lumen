@@ -36,4 +36,9 @@ Setas/controle: navegar   Enter/A: abrir/jogar   Esc/B: voltar
 F: favoritar   M: opções do jogo   R: surpreenda-me   F11: tela cheia
 Ctrl+F: buscar   Ctrl+N: adicionar jogo   F5: atualizar biblioteca
 
+APOIE O PROJETO
+O Lumen é gratuito. Se quiser apoiar, qualquer valor via Pix ajuda:
+chave (e-mail): delsanvfx@gmail.com
+ou leia o QR Code do arquivo pix.png no app do banco (Pix > Pagar com QR Code).
+
 Licença MIT - veja LICENSE.txt
