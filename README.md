@@ -1,6 +1,6 @@
 # Lumen
 
-**Sua biblioteca de jogos do PC num lugar só, com cara de Apple.**
+**Sua biblioteca de jogos do PC num lugar só, com interface morderna.**
 
 O Lumen encontra sozinho os jogos instalados da **Steam, Epic Games e GOG**, junta tudo num catálogo bonito
 com capas, trailers no fundo, conquistas reais e tempo de jogo, e abre qualquer jogo com um clique.
