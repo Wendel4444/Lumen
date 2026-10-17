@@ -1,0 +1,39 @@
+LUMEN 1.0 - biblioteca visual de jogos para Windows
+===================================================
+
+COMO USAR
+1. Extraia esta pasta para onde quiser (ex.: Documentos\Lumen).
+   Não rode de dentro do .zip.
+2. Abra o Lumen.exe.
+3. Pronto: ele encontra sozinho os jogos da Steam, Epic Games e GOG.
+   Para outros jogos, use "Adicionar jogo" ou arraste o .exe para a janela.
+
+AVISO DO WINDOWS ("O Windows protegeu o computador")
+O Lumen ainda não tem assinatura digital paga, então o SmartScreen pode
+avisar na primeira vez. Clique em "Mais informações" e depois em
+"Executar assim mesmo". Isso só acontece uma vez.
+
+REQUISITOS
+- Windows 10 ou 11, 64 bits.
+- Nada mais para instalar (sem .NET, sem Visual C++ Redistributable).
+
+ONDE FICAM SEUS DADOS
+%LOCALAPPDATA%\Lumen  (favoritos, categorias, ajustes, cache de imagens)
+Quer levar tudo num pendrive? Crie um arquivo vazio chamado "portable"
+ao lado do Lumen.exe: os dados passam a ficar na pasta LumenData.
+
+FECHAR DE VERDADE
+Por padrão o X deixa o Lumen na bandeja (perto do relógio) para os avisos
+de tempo de jogo funcionarem. Para sair: botão direito no ícone > Sair.
+Dá para mudar isso em Ajustes > Bem-estar.
+
+DESINSTALAR
+Apague a pasta do Lumen e a pasta %LOCALAPPDATA%\Lumen.
+Se ligou "Iniciar com o Windows", desligue antes em Ajustes > Sistema.
+
+ATALHOS
+Setas/controle: navegar   Enter/A: abrir/jogar   Esc/B: voltar
+F: favoritar   M: opções do jogo   R: surpreenda-me   F11: tela cheia
+Ctrl+F: buscar   Ctrl+N: adicionar jogo   F5: atualizar biblioteca
+
+Licença MIT - veja LICENSE.txt
